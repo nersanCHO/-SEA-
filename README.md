@@ -3,9 +3,9 @@ SportShopDemo
 SportShopDemo is a demo e-commerce web application for sporting goods built with ASP.NET Core MVC.
 The project includes product browsing, filtering, favorites, shopping cart functionality, authentication with ASP.NET Identity, and a demo checkout flow.
 
-========================================
+
 OVERVIEW
-========================================
+
 
 This project is designed as a sports shop demo where users can:
 
@@ -20,9 +20,9 @@ This project is designed as a sports shop demo where users can:
 
 The application also includes seeded data and a default admin account for testing.
 
-========================================
+
 TECH STACK
-========================================
+
 
 - ASP.NET Core MVC
 - .NET 8
@@ -32,9 +32,9 @@ TECH STACK
 - Razor Pages for Identity UI
 - HTML / CSS / C#
 
-========================================
+
 MAIN FEATURES
-========================================
+
 
 1. Product Catalog
 - Displays products ordered by name
@@ -78,9 +78,9 @@ MAIN FEATURES
   - Client
 - A default admin account is created automatically on startup
 
-========================================
+
 DEFAULT ADMIN ACCOUNT
-========================================
+
 
 Email:
 admin@sportshop.com
@@ -92,9 +92,9 @@ Important:
 This account is intended only for demo and local testing.
 Change or remove it before using the project in any real environment.
 
-========================================
+
 PROJECT STRUCTURE
-========================================
+
 
 SportShopDemo/
 │
@@ -123,9 +123,9 @@ SportShopDemo/
 ├── SportShop.csproj
 └── SportShop.sln
 
-========================================
+
 GETTING STARTED
-========================================
+
 
 Prerequisites:
 - .NET 8 SDK
@@ -160,9 +160,9 @@ dotnet run
 
 Use the local URL shown in the terminal after startup.
 
-========================================
+
 DATABASE AND SEEDING
-========================================
+
 
 On application startup, the project:
 
@@ -175,9 +175,9 @@ This behavior is handled in:
 - Program.cs
 - Data/SeedData.cs
 
-========================================
+
 ROUTING
-========================================
+
 
 The default route points to:
 
@@ -186,9 +186,9 @@ Action: Index
 
 So the application opens directly on the product listing page.
 
-========================================
+
 NOTES
-========================================
+
 
 - This is a demo project
 - Checkout is simulated
@@ -196,9 +196,9 @@ NOTES
 - Some product descriptions are in Bulgarian
 - The project includes sample products, categories, and product images
 
-========================================
+
 FUTURE IMPROVEMENTS
-========================================
+
 
 Possible next steps:
 - Add real order persistence in the database
@@ -211,15 +211,15 @@ Possible next steps:
 - Add localization / multilingual UI
 - Add unit and integration tests
 
-========================================
+
 LICENSE
-========================================
+
 
 This project is for educational and demo purposes.
 
-========================================
+
 AUTHOR
-========================================
+
 
 Created by nersanCHO
 GitHub repository:
