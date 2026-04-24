@@ -77,9 +77,8 @@ GitHub repository: https://github.com/nersanCHO/SportShopDemo
 
 По желание могат да се добавят screenshots на:
 
-- продуктов каталог;
-- страница с детайли за продукт;
-- любими продукти;
-- количка;
-- checkout форма;
-- admin функционалност.
+- продуктов каталог - https://github.com/nersanCHO/-SEA-/blob/main/src/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-04-24%20084617.png ;
+- страница с детайли за продукт - https://github.com/nersanCHO/-SEA-/blob/main/src/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-04-24%20084834.png ;
+- любими продукти - https://github.com/nersanCHO/-SEA-/blob/main/src/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-04-24%20085012.png ;
+- количка - https://github.com/nersanCHO/-SEA-/blob/main/src/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-04-24%20085058.png ;
+- admin функционалност - https://github.com/nersanCHO/-SEA-/blob/main/src/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-04-24%20085136.png .
